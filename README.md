@@ -25,9 +25,9 @@ Will be uploaded.
 
 ### Installations and Prerequisites
 Clone the repository: git clone https://github.com/aceline0/Master-Thesis-2025.git <br>
-- Spuder with Python version 3.7.9
+- Spyder with Python version 3.7.9
 - Jupyter Notebook with Python version 3.12.4
 - Python libraries used: numpy, pandas, seaborn, sklearn, holiday
 
 <br>
-Data can be available upon request
+Data can be available upon request.
